@@ -5,9 +5,9 @@ Ember running in Node, with hacky resolver and debug adapter.
 
 ## About
 
-A recent PR (emberjs/ember.js#9941) was created that allows Ember.js to run in
-Node. This repository utilizes `ember.debug.cjs.js` (renamed as `ember.js`),
-with some hacks applied to:
+A recent PR ([emberjs/ember.js#9941](https://github.com/emberjs/ember.js/pull/9941))
+was created that allows Ember.js to run in Node. This repository utilizes
+`ember.debug.cjs.js` (renamed as `ember.js`), with some hacks applied to:
 
 * [ember-resolver](https://github.com/stefanpenner/ember-resolver)
 * [container-debug-adapter](https://github.com/stefanpenner/ember-resolver)

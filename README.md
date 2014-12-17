@@ -22,7 +22,8 @@ risk!
 ## Running
 
 1. Ensure that Node.js is installed.
-2. Run `node app/app.js` to see for yourself.
+2. Run `npm install`.
+3. Run `node app/app.js` to see for yourself.
 
 ## Hacking
 
